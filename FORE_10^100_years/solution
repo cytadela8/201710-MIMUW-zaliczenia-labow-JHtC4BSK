@@ -1,0 +1,3 @@
+1. ghex, Codilime Veles, binwalk -E or other tool to find the block of 00-s and FF-s
+2. Extract the block
+3. Fix the bmp header or use GIMP raw mode

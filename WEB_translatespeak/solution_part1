@@ -1,0 +1,5 @@
+1. Discover robots.txt with a lot of paths, but only /backup returns something. It return page with link to NeverGonaGiveYouUp
+2. Discover python "string i control partially".format("somepath string") - seams useless, but cool
+3. Use espeak command argument "-f" to get app.py: "-fapp.py"
+4. Listen to app.py as read by espeak and findout that in /backup if use pass "UserAgent: magic" you get something else. This thing turns out to be app.py
+5. From app.py find you can pass fname parameter also to /backup to get other files

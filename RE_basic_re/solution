@@ -1,0 +1,4 @@
+1. wykryj ze program daje dobry wynik jak dostanie 3 parametry
+2. zmiana sleep(1337) -> sleep(0) (IDA patch)
+3. ltrace
+4. parse ltrace

@@ -1,0 +1,2 @@
+1. diassemble main
+2. eax contents are characters of FLAG ("mov eax, XX")
